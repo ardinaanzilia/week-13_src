@@ -11,6 +11,9 @@ yield* Keyword:
 Apa maksud isi perintah kode tersebut?
 Kode tersebut bertujuan untuk membuat stream warna (Stream<Color>) yang menghasilkan elemen warna secara berulang-ulang dari daftar warna bernama colors. 
 
+Soal 4
+![alt text](Recording2024-12-17113023-ezgif.com-video-to-gif-converter.gif)
+
 
 ## Getting Started
 
