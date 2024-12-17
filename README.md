@@ -1,6 +1,16 @@
 # streambuilder_anzilia
 
-A new Flutter project.
+362358302044_NUR ARDINA ANZILIA PUTRI_2D TRPL
+
+Soal 3
+Jelaskan fungsi keyword yield* pada kode tersebut!
+yield* Keyword:
+- Digunakan untuk mem-forward (meneruskan) semua elemen dari stream lain ke stream yang sedang dihasilkan.
+- Alih-alih memanggil yield berulang kali untuk setiap elemen stream yang diteruskan, yield* memungkinkan integrasi seluruh stream sekaligus.
+
+Apa maksud isi perintah kode tersebut?
+Kode tersebut bertujuan untuk membuat stream warna (Stream<Color>) yang menghasilkan elemen warna secara berulang-ulang dari daftar warna bernama colors. 
+
 
 ## Getting Started
 
