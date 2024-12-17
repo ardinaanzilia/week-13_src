@@ -14,6 +14,10 @@ Kode tersebut bertujuan untuk membuat stream warna (Stream<Color>) yang menghasi
 Soal 4
 ![alt text](Recording2024-12-17113023-ezgif.com-video-to-gif-converter.gif)
 
+Soal 5
+ Jelaskan perbedaan menggunakan listen dan await for (langkah 9) ! :
+Perbedaan antara listen dan await for adalah listen digunakan untuk memantau stream dengan callback dan memungkinkan kita menghentikan atau melanjutkan stream, sedangkan await for dipakai dalam fungsi async untuk memproses data dari stream satu per satu secara berurutan.
+
 
 ## Getting Started
 
